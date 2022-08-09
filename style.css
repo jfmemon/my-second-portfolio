@@ -66,3 +66,48 @@ h2{
     padding-top: 5%;
     padding-right: 5%;
 }
+
+.third-portion{
+    display: flex;
+    padding-bottom: 10%;
+}
+
+.third-portion-left{
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    border-left: 5px solid salmon;
+}
+
+.third-portion-right{
+    width: 50%;
+    padding-right: 3%;
+    padding-left: 3%;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    border-radius: 10px;
+    border-left: 5px solid rgb(111, 111, 206);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.experience{
+    padding-left: 7%;
+}
+
+.last{
+    text-align: center;
+}
+
+.last-color{
+    color: orange;
+}
+
+.bottom{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
