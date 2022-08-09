@@ -6,4 +6,41 @@ body{
 
 .first-portion{
     display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.text-colour{
+    color: orange;
+}
+
+h2{
+    font-size: 20px;
+}
+.first-portion-left{
+    width: 50%;
+    padding-left: 7%;
+    padding-top: 4%;
+    padding-right: 5%;
+}
+
+.first-portion-right img{
+    width: 80%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+
+}
+
+.button{
+    font-size: 20px;
+    background-image: linear-gradient(orange,rgb(209, 207, 207));
+    padding: 10px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
 }
