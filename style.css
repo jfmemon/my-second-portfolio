@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Baloo 2', cursive;
+}
+
+.first-portion{
+    display: flex;
+}
